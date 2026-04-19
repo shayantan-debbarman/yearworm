@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "001",
+    "title": "The Twist",
+    "artist": "Chubby Checker",
+    "year": 1960,
+    "youtubeId": "-CCgDvUM4TM",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9f/42/30/9f423052-655f-be7b-c3a9-a0a83e225c71/mzaf_10806182603821084649.plus.aac.p.m4a"
+  },
+  {
+    "id": "002",
+    "title": "Stand by Me",
+    "artist": "Ben E. King",
+    "year": 1961,
+    "youtubeId": "TJx9E-rUqhg",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/18/ad/fb/18adfbac-3fbd-756c-d259-6daf41f902f2/mzaf_12768986125082088263.plus.aac.p.m4a"
+  },
+  {
+    "id": "003",
+    "title": "Please Please Me",
+    "artist": "The Beatles",
+    "year": 1963,
+    "youtubeId": "h43nuGSd1m4",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/78/05/cd/7805cd56-4bc5-0ab4-eec6-91934b7d0dbf/mzaf_16899894534897690831.plus.aac.p.m4a"
+  },
+  {
+    "id": "004",
+    "title": "I Want to Hold Your Hand",
+    "artist": "The Beatles",
+    "year": 1963,
+    "youtubeId": "jenWdylTtzs",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/d4/84/99d48419-cbd2-4d45-ad5c-60a581ff126e/mzaf_10364932228692401724.plus.aac.p.m4a"
+  },
+  {
+    "id": "005",
+    "title": "House of the Rising Sun",
+    "artist": "The Animals",
+    "year": 1964,
+    "youtubeId": "PqW4GCmQSt4",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/79/4c/44794c50-1a5f-17c9-3425-f3dc237a77d8/mzaf_16013920997882405001.plus.aac.p.m4a"
+  },
+  {
+    "id": "006",
+    "title": "(I Can't Get No) Satisfaction",
+    "artist": "The Rolling Stones",
+    "year": 1965,
+    "youtubeId": "C2sYxg8-PvE",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/62/2f/1e/622f1ed4-0ce6-ccbb-ba0c-a595d942bc9b/mzaf_8841129286398562133.plus.aac.p.m4a"
+  },
+  {
+    "id": "007",
+    "title": "My Girl",
+    "artist": "The Temptations",
+    "year": 1965,
+    "youtubeId": "y3KJ7d2qBoA",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/99/b3/ef/99b3ef00-3e74-5dfa-0d2e-4128ef5a9f0c/mzaf_12879689053309664622.plus.aac.p.m4a"
+  },
+  {
+    "id": "008",
+    "title": "California Dreamin'",
+    "artist": "The Mamas & the Papas",
+    "year": 1965,
+    "youtubeId": "KOok1WzZbOY",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/6e/4c/5e6e4c89-b1dc-f2a5-56f7-3bc5adfcaeb6/mzaf_11405280371921111445.plus.aac.p.m4a"
+  },
+  {
+    "id": "009",
+    "title": "Good Vibrations",
+    "artist": "The Beach Boys",
+    "year": 1966,
+    "youtubeId": "apBWI6xrbLY",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/19/81/d4/1981d49b-0843-2b4c-7ead-752489a1b401/mzaf_16571628849823631950.plus.aac.p.m4a"
+  },
+  {
+    "id": "010",
+    "title": "Respect",
+    "artist": "Aretha Franklin",
+    "year": 1967,
+    "youtubeId": "JzqGZjFnYnA",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ee/3d/73/ee3d7366-bdcb-1370-a807-e9a138345974/mzaf_8633168135836320660.plus.aac.p.m4a"
+  },
+  {
+    "id": "011",
+    "title": "Light My Fire",
+    "artist": "The Doors",
+    "year": 1967,
+    "youtubeId": "xXgCIjYjXWY",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3d/cd/ce/3dcdceab-7458-a9dd-7c3f-72b69a9fffc6/mzaf_9831581320710671416.plus.aac.p.m4a"
+  },
+  {
+    "id": "012",
+    "title": "A Day in the Life",
+    "artist": "The Beatles",
+    "year": 1967,
+    "youtubeId": "usNsCeOV4GM",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/28/42/e7/2842e764-d113-4bab-24b9-f28aa922456e/mzaf_2901405551618478483.plus.aac.p.m4a"
+  },
+  {
+    "id": "013",
+    "title": "Brown Eyed Girl",
+    "artist": "Van Morrison",
+    "year": 1967,
+    "youtubeId": "UfmkgQRmmeE",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/02/f0/e5/02f0e5e5-7a0a-407f-6125-0faee3fa57fd/mzaf_2431451593080933868.plus.aac.p.m4a"
+  },
+  {
+    "id": "014",
+    "title": "Hey Jude",
+    "artist": "The Beatles",
+    "year": 1968,
+    "youtubeId": "A_MjCqQoLLA",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3d/08/f5/3d08f5d7-1e0a-99d9-1085-d50ecc972bb9/mzaf_1689604474306790314.plus.aac.p.m4a"
+  },
+  {
+    "id": "015",
+    "title": "(Sittin' On) The Dock of the Bay",
+    "artist": "Otis Redding",
+    "year": 1968,
+    "youtubeId": "AN5RyeUzsso",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/7f/14/207f141a-f7e5-26c1-9e5a-b4556444e467/mzaf_18196714768063505974.plus.aac.p.m4a"
+  },
+  {
+    "id": "016",
+    "title": "I Heard It Through the Grapevine",
+    "artist": "Marvin Gaye",
+    "year": 1968,
+    "youtubeId": "cXWHpbpNdHE",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3b/7f/61/3b7f6109-9dda-c5e2-d228-18035e25fc7a/mzaf_15307067509964036717.plus.aac.p.m4a"
+  },
+  {
+    "id": "017",
+    "title": "Born to Be Wild",
+    "artist": "Steppenwolf",
+    "year": 1968,
+    "youtubeId": "zb1hkGLrFG8",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/79/1f/26/791f26bf-abc4-d9fc-4dd1-f93a27533059/mzaf_7059983360387846257.plus.aac.p.m4a"
+  },
+  {
+    "id": "018",
+    "title": "Sweet Caroline",
+    "artist": "Neil Diamond",
+    "year": 1969,
+    "youtubeId": "4F_RCWVoL4s",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3b/5f/ed/3b5fedd7-e603-2bb6-92eb-598570796849/mzaf_4289799664177677527.plus.aac.p.m4a"
+  },
+  {
+    "id": "019",
+    "title": "Suspicious Minds",
+    "artist": "Elvis Presley",
+    "year": 1969,
+    "youtubeId": "RxOBOhRECoo",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/69/80/35/69803593-60c5-51c3-572f-b7c3f0f0dc77/mzaf_9945991278826753290.plus.aac.p.m4a"
+  },
+  {
+    "id": "020",
+    "title": "Come Together",
+    "artist": "The Beatles",
+    "year": 1969,
+    "youtubeId": "45cYwDMibGo",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c1/9a/be/c19abef9-cca4-ffaa-bc87-ed5f46ec2e59/mzaf_12195798000058662622.plus.aac.p.m4a"
+  },
+  {
+    "id": "021",
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "year": 1970,
+    "youtubeId": "CGj85pVzRJs",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/0f/f7/e1/0ff7e145-6be6-4341-4fa1-32999d20707f/mzaf_15493778815944217662.plus.aac.p.m4a"
+  },
+  {
+    "id": "022",
+    "title": "Bridge Over Troubled Water",
+    "artist": "Simon & Garfunkel",
+    "year": 1970,
+    "youtubeId": "4G-YQA_bsOU",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a8/30/d1/a830d161-703e-440a-842e-8976cf61b9a3/mzaf_3027548180080172668.plus.aac.p.m4a"
+  },
+  {
+    "id": "023",
+    "title": "American Woman",
+    "artist": "The Guess Who",
+    "year": 1970,
+    "youtubeId": "9uf6EY2BZBw",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/78/69/c2/7869c2f2-771b-2bc3-1131-93ed5f131348/mzaf_4277220193714447579.plus.aac.p.m4a"
+  },
+  {
+    "id": "024",
+    "title": "Layla",
+    "artist": "Derek and the Dominos",
+    "year": 1970,
+    "youtubeId": "RcYxoVFCPjg",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/94/e8/01/94e80130-1c56-d474-d742-d5925eb76725/mzaf_4915490710680006786.plus.aac.p.m4a"
+  },
+  {
+    "id": "025",
+    "title": "Imagine",
+    "artist": "John Lennon",
+    "year": 1971,
+    "youtubeId": "VOgFZfRVaww",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7d/4e/8c/7d4e8ced-a37b-fab9-c66a-f3b4d6f043cb/mzaf_1566428042492234227.plus.aac.p.m4a"
+  },
+  {
+    "id": "026",
+    "title": "American Pie",
+    "artist": "Don McLean",
+    "year": 1971,
+    "youtubeId": "PRpiBpDy7MQ",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d7/89/ad/d789ad68-ac27-edbd-ae6e-a3ae78d24877/mzaf_14009824026720959582.plus.aac.p.m4a"
+  },
+  {
+    "id": "027",
+    "title": "What's Going On",
+    "artist": "Marvin Gaye",
+    "year": 1971,
+    "youtubeId": "o5TmORitlKk",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/08/f3/f4/08f3f452-b24f-e25b-92bc-15850f1bdc6a/mzaf_14002930736666872327.plus.aac.p.m4a"
+  },
+  {
+    "id": "028",
+    "title": "Stairway to Heaven",
+    "artist": "Led Zeppelin",
+    "year": 1971,
+    "youtubeId": "QkF3oxziUI4",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/60/61/5f/60615fd1-7425-78b3-21ab-fed7411a89ea/mzaf_7178841208140363975.plus.aac.p.m4a"
+  },
+  {
+    "id": "029",
+    "title": "Tiny Dancer",
+    "artist": "Elton John",
+    "year": 1971,
+    "youtubeId": "0FjWM9VasZw",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/24/5b/6d/245b6dcb-098e-40ff-3d5d-b795b55410bf/mzaf_12791161787497744077.plus.aac.p.m4a"
+  },
+  {
+    "id": "030",
+    "title": "Take Me Home, Country Roads",
+    "artist": "John Denver",
+    "year": 1971,
+    "youtubeId": "1vrEljMfXYo",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e7/d1/c4/e7d1c476-fa55-0be0-adf8-5fdcc7d18f3f/mzaf_3863812668516994856.plus.aac.p.m4a"
+  },
+  {
+    "id": "031",
+    "title": "Superstition",
+    "artist": "Stevie Wonder",
+    "year": 1972,
+    "youtubeId": "7_tmeHCO1IM",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ff/a3/1a/ffa31a9f-8d91-68a8-e85c-cf8e74284079/mzaf_15951061299338017971.plus.aac.p.m4a"
+  },
+  {
+    "id": "032",
+    "title": "Lean on Me",
+    "artist": "Bill Withers",
+    "year": 1972,
+    "youtubeId": "gOZgo8gMIoM",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/98/93/e3/9893e31d-8c4d-62f9-df64-67ce4dbfae28/mzaf_2446780408908846314.plus.aac.p.m4a"
+  },
+  {
+    "id": "033",
+    "title": "Rocket Man",
+    "artist": "Elton John",
+    "year": 1972,
+    "youtubeId": "DtVBCG6ThDk",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8c/09/6d/8c096da7-10b6-422b-51b6-f1f97a66380d/mzaf_5290536375751623365.plus.aac.p.m4a"
+  },
+  {
+    "id": "034",
+    "title": "You're So Vain",
+    "artist": "Carly Simon",
+    "year": 1972,
+    "youtubeId": "j13oJajXx0M",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/ed/3c/59ed3c73-a1bf-42b9-f522-005a5967dad4/mzaf_16168047215121566257.plus.aac.p.m4a"
+  },
+  {
+    "id": "035",
+    "title": "Walk on the Wild Side",
+    "artist": "Lou Reed",
+    "year": 1972,
+    "youtubeId": "oG6fayQBm9w",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ff/2a/3f/ff2a3fef-526f-c4a1-87a7-d183b88de527/mzaf_12169782340914697842.plus.aac.p.m4a"
+  },
+  {
+    "id": "036",
+    "title": "Ziggy Stardust",
+    "artist": "David Bowie",
+    "year": 1972,
+    "youtubeId": "na8xgu-KLAk",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e1/5f/44/e15f442d-95f5-41cc-6f69-b23eb58c4af7/mzaf_17935873034057372065.plus.aac.p.m4a"
+  },
+  {
+    "id": "037",
+    "title": "Dream On",
+    "artist": "Aerosmith",
+    "year": 1973,
+    "youtubeId": "89dGC8de0CA",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f8/96/43/f89643b7-3efa-9f43-0a78-394abf12864b/mzaf_3399344087154345151.plus.aac.p.m4a"
+  },
+  {
+    "id": "038",
+    "title": "Killing Me Softly with His Song",
+    "artist": "Roberta Flack",
+    "year": 1973,
+    "youtubeId": "DEbi_YjpA-Y",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d7/c6/4b/d7c64b5d-d71e-d000-8abe-f70ab32a8c7d/mzaf_14605437328118899073.plus.aac.p.m4a"
+  },
+  {
+    "id": "039",
+    "title": "Piano Man",
+    "artist": "Billy Joel",
+    "year": 1973,
+    "youtubeId": "QwVjTlTdIDQ",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3d/4c/b8/3d4cb8af-0a11-4fa0-706b-b3421e2c3dd6/mzaf_6048557425298440629.plus.aac.p.m4a"
+  },
+  {
+    "id": "040",
+    "title": "Sweet Home Alabama",
+    "artist": "Lynyrd Skynyrd",
+    "year": 1974,
+    "youtubeId": "-35W_FWCT9Q",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/19/67/9e/19679e49-2dcb-c44f-2244-391bb4fb7e1d/mzaf_10147574816943411315.plus.aac.p.m4a"
+  },
+  {
+    "id": "041",
+    "title": "Born to Run",
+    "artist": "Bruce Springsteen",
+    "year": 1975,
+    "youtubeId": "6db0jHlyPyA",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a8/b7/0a/a8b70ad0-b907-0360-99b1-5bf23bdc8322/mzaf_11319548672709322634.plus.aac.p.m4a"
+  },
+  {
+    "id": "042",
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "year": 1975,
+    "youtubeId": "fJ9rUzIMcZQ",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8f/11/52/8f1152a9-fd5f-0021-f546-b97579c22ec3/mzaf_3962258993076347789.plus.aac.p.m4a"
+  },
+  {
+    "id": "043",
+    "title": "Hotel California",
+    "artist": "Eagles",
+    "year": 1976,
+    "youtubeId": "dLl4PZtxia8",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a7/1b/f0/a71bf07d-f498-05c9-2c8a-d12af7d019d8/mzaf_11402952498213508559.plus.aac.p.m4a"
+  },
+  {
+    "id": "044",
+    "title": "Dancing Queen",
+    "artist": "ABBA",
+    "year": 1976,
+    "youtubeId": "-sVB91NTa4A",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1a/47/93/1a4793fc-1586-87bc-00d2-dc4916a61c7c/mzaf_13920610926910283055.plus.aac.p.m4a"
+  },
+  {
+    "id": "045",
+    "title": "Go Your Own Way",
+    "artist": "Fleetwood Mac",
+    "year": 1977,
+    "youtubeId": "oiosqtFLBBA",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d1/37/68/d1376853-ec1e-cce0-4ac9-2e98fc9d9c51/mzaf_7672022765745493173.plus.aac.p.m4a"
+  },
+  {
+    "id": "046",
+    "title": "Dreams",
+    "artist": "Fleetwood Mac",
+    "year": 1977,
+    "youtubeId": "PgagPdVM7bk",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cb/87/29/cb872937-bebb-f309-821e-5459a873f1b6/mzaf_13232595752463797281.plus.aac.p.m4a"
+  },
+  {
+    "id": "047",
+    "title": "Stayin' Alive",
+    "artist": "Bee Gees",
+    "year": 1977,
+    "youtubeId": "fNFzfwLM72c",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/dc/8b/52/dc8b524e-e54e-55bb-bf00-03d7b09a7da2/mzaf_14448685722778211602.plus.aac.p.m4a"
+  },
+  {
+    "id": "048",
+    "title": "I Will Survive",
+    "artist": "Gloria Gaynor",
+    "year": 1978,
+    "youtubeId": "6dYWe1c3OyU",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/97/55/dd/9755dd8f-a332-4486-4946-c049059f0edf/mzaf_18336667409268238306.plus.aac.p.m4a"
+  },
+  {
+    "id": "049",
+    "title": "Le Freak",
+    "artist": "Chic",
+    "year": 1978,
+    "youtubeId": "aXgSHL7efKg",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a3/8f/ee/a38fee4b-1581-a60c-fe31-30f87dcd6b52/mzaf_8268311195771301645.plus.aac.p.m4a"
+  },
+  {
+    "id": "050",
+    "title": "Y.M.C.A.",
+    "artist": "Village People",
+    "year": 1978,
+    "youtubeId": "2t8WKiTZ514",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/35/cc/73/35cc73ff-e066-6508-5da6-ff7388c5218b/mzaf_1097522515788886155.plus.aac.p.m4a"
+  },
+  {
+    "id": "051",
+    "title": "Heart of Glass",
+    "artist": "Blondie",
+    "year": 1978,
+    "youtubeId": "WGU_4-5RaxU",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/46/46/d8/4646d8fd-86d7-fbaa-c1e2-8e41fbe92618/mzaf_4475341847035934850.plus.aac.p.m4a"
+  },
+  {
+    "id": "052",
+    "title": "Rapper's Delight",
+    "artist": "The Sugarhill Gang",
+    "year": 1979,
+    "youtubeId": "H8yUxDOHlh8",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/a0/4c/61/a04c617a-4c8b-59c1-831c-56bbed531aab/mzaf_2215971886089153698.plus.aac.p.m4a"
+  },
+  {
+    "id": "053",
+    "title": "Good Times",
+    "artist": "Chic",
+    "year": 1979,
+    "youtubeId": "PP_JBPGkd-Y",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/9e/49/bb/9e49bb24-d6c1-7d6d-d4f8-e3e9481b1421/mzaf_10409839815109237861.plus.aac.p.m4a"
+  },
+  {
+    "id": "054",
+    "title": "Another Brick in the Wall, Part 2",
+    "artist": "Pink Floyd",
+    "year": 1979,
+    "youtubeId": "HrxX9TBj2zY",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c7/e9/39/c7e93935-1bdb-70ee-0187-31d627febab8/mzaf_4524173362103537743.plus.aac.p.m4a"
+  },
+  {
+    "id": "055",
+    "title": "London Calling",
+    "artist": "The Clash",
+    "year": 1979,
+    "youtubeId": "EfK-WX2pa8c",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/fb/f5/b4/fbf5b472-dd9d-5984-c8c5-114716c105cb/mzaf_14673080368047782781.plus.aac.p.m4a"
+  },
+  {
+    "id": "056",
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "year": 1982,
+    "youtubeId": "Zi_XLOBDo_Y",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dc/bc/8a/dcbc8a3e-4ce1-c00d-cc02-eda2212053c7/mzaf_8347559338388601510.plus.aac.p.m4a"
+  },
+  {
+    "id": "057",
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "year": 1982,
+    "youtubeId": "4V90AmXnguw",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/8c/cb/588ccb9a-ab79-4a38-43b5-d4c24ea42859/mzaf_2083607504726567992.plus.aac.p.m4a"
+  },
+  {
+    "id": "058",
+    "title": "Beat It",
+    "artist": "Michael Jackson",
+    "year": 1983,
+    "youtubeId": "n0su-7oBgP8",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/88/cd/46/88cd46bd-dba7-1dc2-a63b-e8c111ac4fc3/mzaf_4042555053237612653.plus.aac.p.m4a"
+  },
+  {
+    "id": "059",
+    "title": "Like a Virgin",
+    "artist": "Madonna",
+    "year": 1984,
+    "youtubeId": "50nag9B6Pps",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d4/91/00/d4910061-5267-b81a-eb30-059224c36cb3/mzaf_10027228873369591121.plus.aac.p.m4a"
+  },
+  {
+    "id": "060",
+    "title": "Material Girl",
+    "artist": "Madonna",
+    "year": 1984,
+    "youtubeId": "6p-lDYPR2P8",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f5/5b/51/f55b512a-9d2d-c3cf-e78a-2c2187393dba/mzaf_4554099718140384374.plus.aac.p.m4a"
+  },
+  {
+    "id": "061",
+    "title": "Sweet Child O' Mine",
+    "artist": "Guns N' Roses",
+    "year": 1987,
+    "youtubeId": "1w7OgIMMRc4",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a5/82/2d/a5822d67-2e65-fe95-511e-1f785d23e5cc/mzaf_8619467974951398014.plus.aac.p.m4a"
+  },
+  {
+    "id": "062",
+    "title": "Livin' on a Prayer",
+    "artist": "Bon Jovi",
+    "year": 1986,
+    "youtubeId": "lDK9QqIzhwk",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/64/6c/fc646cf8-6322-09d6-c6b7-0cd148f6a47f/mzaf_14973517811432335325.plus.aac.p.m4a"
+  },
+  {
+    "id": "063",
+    "title": "Every Breath You Take",
+    "artist": "The Police",
+    "year": 1983,
+    "youtubeId": "OMOGaugKpzs",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/7e/4f/f37e4f0e-4979-c096-6fa0-7ffc054d0c73/mzaf_8433816559382260848.plus.aac.p.m4a"
+  },
+  {
+    "id": "064",
+    "title": "Don't Stop Believin'",
+    "artist": "Journey",
+    "year": 1981,
+    "youtubeId": "1k8craCGpgs",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/5c/72/97/5c72974f-6022-f760-ad82-35964fb636b5/mzaf_12752096049347330756.plus.aac.p.m4a"
+  },
+  {
+    "id": "065",
+    "title": "Take On Me",
+    "artist": "a-ha",
+    "year": 1985,
+    "youtubeId": "X50VeoRaNmY",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/03/4f/f2034f41-707f-7111-bc63-e5d3cf7f2240/mzaf_17215043934336702540.plus.aac.p.m4a"
+  },
+  {
+    "id": "066",
+    "title": "Jump",
+    "artist": "Van Halen",
+    "year": 1984,
+    "youtubeId": "SwYN7mTi6HM",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cc/2f/d0/cc2fd073-8d0c-4a7d-630c-64639fbb56e1/mzaf_15726260092255257970.plus.aac.p.m4a"
+  },
+  {
+    "id": "067",
+    "title": "Born in the U.S.A.",
+    "artist": "Bruce Springsteen",
+    "year": 1984,
+    "youtubeId": "9YNufvgPP20",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/47/97/9e/47979e22-8765-4d1b-add9-49f48fe79746/mzaf_9314457552309258705.plus.aac.p.m4a"
+  },
+  {
+    "id": "068",
+    "title": "Purple Rain",
+    "artist": "Prince",
+    "year": 1984,
+    "youtubeId": "uW1UIDYmYyI",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4a/70/9b/4a709b41-3c29-626a-ca69-44aa907f4705/mzaf_14388295257133509788.plus.aac.p.m4a"
+  },
+  {
+    "id": "069",
+    "title": "When Doves Cry",
+    "artist": "Prince",
+    "year": 1984,
+    "youtubeId": "UG3VcCAlUgE",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b3/e3/29/b3e3293d-4b78-a1e5-e0f1-af454069bb4a/mzaf_13125341275143709062.plus.aac.p.m4a"
+  },
+  {
+    "id": "070",
+    "title": "Tainted Love",
+    "artist": "Soft Cell",
+    "year": 1981,
+    "youtubeId": "XZVpR3Pk-r8",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/59/ad/28/59ad2888-2b61-7f07-a779-b18cc013c698/mzaf_5227993960460210837.plus.aac.p.m4a"
+  },
+  {
+    "id": "071",
+    "title": "Girls Just Want to Have Fun",
+    "artist": "Cyndi Lauper",
+    "year": 1983,
+    "youtubeId": "PIb6AZdTr-A",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/95/1d/ed/951ded3d-4e31-1452-42b6-cc36070a2204/mzaf_10794841548233618528.plus.aac.p.m4a"
+  },
+  {
+    "id": "072",
+    "title": "Time After Time",
+    "artist": "Cyndi Lauper",
+    "year": 1984,
+    "youtubeId": "VdQY7BusJNU",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/27/d7/e3/27d7e3df-ff34-e14d-d4d3-a39a808c66b3/mzaf_10035752166411312993.plus.aac.p.m4a"
+  },
+  {
+    "id": "073",
+    "title": "I Wanna Dance with Somebody",
+    "artist": "Whitney Houston",
+    "year": 1987,
+    "youtubeId": "eH3giaIzONA",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7b/67/fd/7b67fd07-6a7a-0362-135c-878ac5799f2c/mzaf_11309521725869189721.plus.aac.p.m4a"
+  },
+  {
+    "id": "074",
+    "title": "Careless Whisper",
+    "artist": "George Michael",
+    "year": 1984,
+    "youtubeId": "fyMbjVhCzw4",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7c/bb/d8/7cbbd80c-29a1-6142-d0f3-de33e8569a0e/mzaf_12978360432335063808.plus.aac.p.m4a"
+  },
+  {
+    "id": "075",
+    "title": "Never Gonna Give You Up",
+    "artist": "Rick Astley",
+    "year": 1987,
+    "youtubeId": "GHMjD0Lp5DY",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/3a/d6/9a/3ad69a5b-1fdc-c0ca-069b-541cef78e9d6/mzaf_12029354858253493617.plus.aac.p.m4a"
+  },
+  {
+    "id": "076",
+    "title": "Uptown Girl",
+    "artist": "Billy Joel",
+    "year": 1983,
+    "youtubeId": "o-0Oect0nVQ",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/f2/e6/e1f2e64d-b337-0580-b131-e1c9aa799c97/mzaf_17614064074194268589.plus.aac.p.m4a"
+  },
+  {
+    "id": "077",
+    "title": "Hungry Like the Wolf",
+    "artist": "Duran Duran",
+    "year": 1982,
+    "youtubeId": "oJL-lCzEXgI",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/16/1e/f3/161ef3f8-88c6-d80b-745f-0eb90eba4412/mzaf_6736118104079294125.plus.aac.p.m4a"
+  },
+  {
+    "id": "078",
+    "title": "Blue Monday",
+    "artist": "New Order",
+    "year": 1983,
+    "youtubeId": "c1GxjzHm5us",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0f/43/1c/0f431c1a-119c-6614-2736-3fbc4c8a597c/mzaf_3646998447648845325.plus.aac.p.m4a"
+  },
+  {
+    "id": "079",
+    "title": "With or Without You",
+    "artist": "U2",
+    "year": 1987,
+    "youtubeId": "ujNeHIo7oTE",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/77/08/84/77088446-6e2d-e624-a959-ba44f81c539f/mzaf_10549980225388125542.plus.aac.p.m4a"
+  },
+  {
+    "id": "080",
+    "title": "Walk This Way",
+    "artist": "Run-D.M.C.",
+    "year": 1986,
+    "youtubeId": "5iRdVmEyhJI",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bc/1c/80/bc1c806d-9256-306e-aa2c-d9733c835afe/mzaf_4552754320268551306.plus.aac.p.m4a"
+  },
+  {
+    "id": "081",
+    "title": "Push It",
+    "artist": "Salt-N-Pepa",
+    "year": 1987,
+    "youtubeId": "vCadcBR95oU",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/28/65/4f/28654ffd-3867-6966-9217-7843fb5e7a0a/mzaf_912223631372653094.plus.aac.p.m4a"
+  },
+  {
+    "id": "082",
+    "title": "Fight the Power",
+    "artist": "Public Enemy",
+    "year": 1989,
+    "youtubeId": "mmo3HFa2vjg",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/61/32/e1613217-35ee-c7f2-560c-450c1f9034c0/mzaf_6375906548184350106.plus.aac.p.m4a"
+  },
+  {
+    "id": "083",
+    "title": "Like a Prayer",
+    "artist": "Madonna",
+    "year": 1989,
+    "youtubeId": "79fzeNUqQbQ",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/23/82/0b238289-52e2-2107-5531-181836267ed2/mzaf_6726729811402686020.plus.aac.p.m4a"
+  },
+  {
+    "id": "084",
+    "title": "Wake Me Up Before You Go-Go",
+    "artist": "Wham!",
+    "year": 1984,
+    "youtubeId": "pIgZ7gMze7A",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/59/d0/df/59d0df1f-b9b0-c1f0-d27e-ad59ee9fe1fa/mzaf_15629855503092199047.plus.aac.p.m4a"
+  },
+  {
+    "id": "085",
+    "title": "Come On Eileen",
+    "artist": "Dexys Midnight Runners",
+    "year": 1982,
+    "youtubeId": "6BODDyZRF6A",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/12/fb/5e/12fb5e98-bffb-9d09-18a4-e5257e01670f/mzaf_13284581204507168804.plus.aac.p.m4a"
+  },
+  {
+    "id": "086",
+    "title": "Faith",
+    "artist": "George Michael",
+    "year": 1987,
+    "youtubeId": "gbOsK9by6Hc",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a5/a0/b9/a5a0b9b5-25c0-eea4-aff5-e653eb2144a5/mzaf_12972342335011969375.plus.aac.p.m4a"
+  },
+  {
+    "id": "087",
+    "title": "I Love Rock 'n' Roll",
+    "artist": "Joan Jett & the Blackhearts",
+    "year": 1981,
+    "youtubeId": "wMsazR6Tnf8",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3a/3f/67/3a3f67cf-2d47-2ab2-66a2-368fad813e0e/mzaf_2591657320565347448.plus.aac.p.m4a"
+  },
+  {
+    "id": "088",
+    "title": "Rock the Casbah",
+    "artist": "The Clash",
+    "year": 1982,
+    "youtubeId": "69zglj8jYNA",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/7b/b7/3e/7bb73e01-14df-cba7-02b6-022c81cff2bf/mzaf_12717529128874889229.plus.aac.p.m4a"
+  },
+  {
+    "id": "089",
+    "title": "Total Eclipse of the Heart",
+    "artist": "Bonnie Tyler",
+    "year": 1983,
+    "youtubeId": "LSYGIljR6sQ",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/34/d1/23/34d1239b-1efd-1bc3-ff86-2d0f947668b8/mzaf_10784434046657021328.plus.aac.p.m4a"
+  },
+  {
+    "id": "090",
+    "title": "Don't You (Forget About Me)",
+    "artist": "Simple Minds",
+    "year": 1985,
+    "youtubeId": "CdqoNKCCt7A",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/aa/e5/08/aae50878-2154-7bc2-84c9-40193bb42a78/mzaf_15743788287369449773.plus.aac.p.m4a"
+  },
+  {
+    "id": "091",
+    "title": "Smells Like Teen Spirit",
+    "artist": "Nirvana",
+    "year": 1991,
+    "youtubeId": "hTWKbfoikeg",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a6/53/1e/a6531efa-397c-eb73-ecab-9b2790c1471e/mzaf_16440344883389407474.plus.aac.p.m4a"
+  },
+  {
+    "id": "092",
+    "title": "Wonderwall",
+    "artist": "Oasis",
+    "year": 1995,
+    "youtubeId": "6hzrDeceEKc",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/16/93/ab16933c-6203-3db9-9da9-513ff1c8496d/mzaf_16993612140334549994.plus.aac.p.m4a"
+  },
+  {
+    "id": "093",
+    "title": "Black",
+    "artist": "Pearl Jam",
+    "year": 1991,
+    "youtubeId": "qgaRVvAKoqQ",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e4/bc/c8/e4bcc886-82d3-9219-13e5-1bda6a1aefb7/mzaf_1915511600155551430.plus.aac.p.m4a"
+  },
+  {
+    "id": "094",
+    "title": "Creep",
+    "artist": "Radiohead",
+    "year": 1992,
+    "youtubeId": "XFkzRNyygfk",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/8d/e0/bb/8de0bb10-0593-83cc-4d2c-4e9f6ea9b575/mzaf_16440589638018943894.plus.aac.p.m4a"
+  },
+  {
+    "id": "095",
+    "title": "...Baby One More Time",
+    "artist": "Britney Spears",
+    "year": 1998,
+    "youtubeId": "C-u5WLJ9Yk4",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/49/6a/b2/496ab286-3c2d-91f9-2d83-2dc2d7d0ed39/mzaf_9080140052391941165.plus.aac.p.m4a"
+  },
+  {
+    "id": "096",
+    "title": "I Want It That Way",
+    "artist": "Backstreet Boys",
+    "year": 1999,
+    "youtubeId": "z6Wq59qrdB0",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/12/cd/f8/12cdf81c-f174-cd45-9a56-9b2388df9e63/mzaf_2642298639219088626.plus.aac.p.m4a"
+  },
+  {
+    "id": "097",
+    "title": "No Scrubs",
+    "artist": "TLC",
+    "year": 1999,
+    "youtubeId": "rmOd7z8Edrg",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c9/64/38/c964385e-f18a-fd99-638c-76d4f9bdd4e2/mzaf_4744709234124158764.plus.aac.p.m4a"
+  },
+  {
+    "id": "098",
+    "title": "Waterfalls",
+    "artist": "TLC",
+    "year": 1994,
+    "youtubeId": "8WEtxJ4-sh4",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e9/81/4e/e9814ecd-7282-e0cf-6a19-70ea78117382/mzaf_10928185948311762507.plus.aac.p.m4a"
+  },
+  {
+    "id": "099",
+    "title": "California Love",
+    "artist": "2Pac",
+    "year": 1995,
+    "youtubeId": "N0VdRLdg2ng",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b0/64/82/b06482ec-330d-a785-8ae1-523b4164bac8/mzaf_2268361969300808726.plus.aac.p.m4a"
+  },
+  {
+    "id": "100",
+    "title": "Juicy",
+    "artist": "The Notorious B.I.G.",
+    "year": 1994,
+    "youtubeId": "_JZom_gVfuw",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3e/25/56/3e255676-35ba-c094-aca0-2d97d2166c7d/mzaf_13811345509483883529.plus.aac.p.m4a"
+  },
+  {
+    "id": "101",
+    "title": "Gangsta's Paradise",
+    "artist": "Coolio",
+    "year": 1995,
+    "youtubeId": "fPO76Jlnz6c",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/56/58/f7/5658f7ec-2bb5-0ef0-0f9f-5adcd1a96363/mzaf_7433975646947882823.plus.aac.p.m4a"
+  },
+  {
+    "id": "102",
+    "title": "U Can't Touch This",
+    "artist": "MC Hammer",
+    "year": 1990,
+    "youtubeId": "SS4ixxxinDc",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7e/3e/9e/7e3e9edb-74da-06d8-0bda-2b7c8f757b67/mzaf_7650390354415140006.plus.aac.p.m4a"
+  },
+  {
+    "id": "103",
+    "title": "Ice Ice Baby",
+    "artist": "Vanilla Ice",
+    "year": 1990,
+    "youtubeId": "rog8ou-ZepE",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/75/2d/9b/752d9b59-ccbe-922a-813d-af71d6bb304e/mzaf_14285687643105721523.plus.aac.p.m4a"
+  },
+  {
+    "id": "104",
+    "title": "Killing Me Softly",
+    "artist": "Fugees",
+    "year": 1996,
+    "youtubeId": "oKOtzIo-uYw",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/fa/27/9e/fa279e3c-c344-ff8d-58d2-5db3c7f5c7d6/mzaf_3011910104000614995.plus.aac.p.m4a"
+  },
+  {
+    "id": "105",
+    "title": "Torn",
+    "artist": "Natalie Imbruglia",
+    "year": 1997,
+    "youtubeId": "UOJkzcJigGI",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/57/ed/8f/57ed8f5c-f5fd-6872-5ced-c0d508f0918c/mzaf_18336685248537113596.plus.aac.p.m4a"
+  },
+  {
+    "id": "106",
+    "title": "Vogue",
+    "artist": "Madonna",
+    "year": 1990,
+    "youtubeId": "GuJQSAiODqI",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f5/4d/26/f54d265c-1d43-6d64-7798-d1b8e6db2fda/mzaf_10996471418538527772.plus.aac.p.m4a"
+  },
+  {
+    "id": "107",
+    "title": "I Will Always Love You",
+    "artist": "Whitney Houston",
+    "year": 1992,
+    "youtubeId": "T9Ybsvw_0p4",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/d2/1a/03d21aca-c69e-09af-03ef-118004e68ab5/mzaf_17408932698913708736.plus.aac.p.m4a"
+  },
+  {
+    "id": "108",
+    "title": "My Heart Will Go On",
+    "artist": "Celine Dion",
+    "year": 1997,
+    "youtubeId": "mNsm2P0l_7Y",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ad/10/9c/ad109c62-aa02-8345-bfcc-b50f98345475/mzaf_3279697888712975539.plus.aac.p.m4a"
+  },
+  {
+    "id": "109",
+    "title": "Bitter Sweet Symphony",
+    "artist": "The Verve",
+    "year": 1997,
+    "youtubeId": "1lyu1KKwC74",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0e/3b/4a/0e3b4a89-3f5f-b2f4-f99b-0d51e1568ade/mzaf_17530686600831005668.plus.aac.p.m4a"
+  },
+  {
+    "id": "110",
+    "title": "Losing My Religion",
+    "artist": "R.E.M.",
+    "year": 1991,
+    "youtubeId": "xwtdhWltSIg",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/af/be/f5/afbef592-8f00-fe28-8ab4-5c070827b2f8/mzaf_4959761764791628207.plus.aac.p.m4a"
+  },
+  {
+    "id": "111",
+    "title": "Enter Sandman",
+    "artist": "Metallica",
+    "year": 1991,
+    "youtubeId": "CD-E-LDc384",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/85/a5/65/85a565a5-c992-0a77-a1be-c4b190c7f395/mzaf_12174803259665081383.plus.aac.p.m4a"
+  },
+  {
+    "id": "112",
+    "title": "Black Hole Sun",
+    "artist": "Soundgarden",
+    "year": 1994,
+    "youtubeId": "efc7njKAfgo",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/66/fc/ad/66fcad40-fe87-13db-48d8-d5ad960b75c4/mzaf_14260138254714138009.plus.aac.p.m4a"
+  },
+  {
+    "id": "113",
+    "title": "Zombie",
+    "artist": "The Cranberries",
+    "year": 1994,
+    "youtubeId": "6Ejga4kJUts",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/35/bb/65/35bb6532-1abe-59e4-9ced-8bee2742ea24/mzaf_15102830936602294569.plus.aac.p.m4a"
+  },
+  {
+    "id": "114",
+    "title": "1979",
+    "artist": "The Smashing Pumpkins",
+    "year": 1995,
+    "youtubeId": "4aeETEoNfOg",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b7/ad/bc/b7adbc0e-dbf7-986d-995d-115d4415000e/mzaf_16037827753062677028.plus.aac.p.m4a"
+  },
+  {
+    "id": "115",
+    "title": "Tubthumping",
+    "artist": "Chumbawamba",
+    "year": 1997,
+    "youtubeId": "2H5uWRjFsGc",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b6/85/a8/b685a898-b48e-14a3-50d3-43009162fa0d/mzaf_5688414155772340127.plus.aac.p.m4a"
+  },
+  {
+    "id": "116",
+    "title": "MMMBop",
+    "artist": "Hanson",
+    "year": 1997,
+    "youtubeId": "NHozn0YXAeE",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8c/6d/db/8c6ddba0-e5ba-977e-5258-1512a1fbb1cd/mzaf_7353445484288718038.plus.aac.p.m4a"
+  },
+  {
+    "id": "117",
+    "title": "Genie in a Bottle",
+    "artist": "Christina Aguilera",
+    "year": 1999,
+    "youtubeId": "kIDWgqDBNXA",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e9/63/7c/e9637c84-3cbe-ad95-a5be-b6962ed54e08/mzaf_11300153256112368673.plus.aac.p.m4a"
+  },
+  {
+    "id": "118",
+    "title": "Livin' la Vida Loca",
+    "artist": "Ricky Martin",
+    "year": 1999,
+    "youtubeId": "p47fEXGabaY",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/08/a7/cb/08a7cb6d-0618-3c01-6b80-2b92aaca7406/mzaf_15654413058067067771.plus.aac.p.m4a"
+  },
+  {
+    "id": "119",
+    "title": "Barbie Girl",
+    "artist": "Aqua",
+    "year": 1997,
+    "youtubeId": "ZyhrYis509A",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3d/b7/7d/3db77df0-d9a3-b60e-0714-41fd79b9ebff/mzaf_3692738463507322199.plus.aac.p.m4a"
+  },
+  {
+    "id": "120",
+    "title": "Believe",
+    "artist": "Cher",
+    "year": 1998,
+    "youtubeId": "nZXRV4MezEw",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c1/0d/a8/c10da837-e5d3-fee3-e494-cea140cd3400/mzaf_7420600068893534947.plus.aac.p.m4a"
+  },
+  {
+    "id": "121",
+    "title": "Mr. Jones",
+    "artist": "Counting Crows",
+    "year": 1993,
+    "youtubeId": "-oqAU5VxFWs",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/b0/2a/f3b02a56-a5bf-e940-4370-2e0a609f1cb4/mzaf_16264556580562087321.plus.aac.p.m4a"
+  },
+  {
+    "id": "122",
+    "title": "Nothing Compares 2 U",
+    "artist": "Sinéad O'Connor",
+    "year": 1990,
+    "youtubeId": "0-EF60neguk",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/db/8c/ae/db8cae40-3b74-0406-2f63-8759a8414935/mzaf_12328590676083323672.plus.aac.p.m4a"
+  },
+  {
+    "id": "123",
+    "title": "Black or White",
+    "artist": "Michael Jackson",
+    "year": 1991,
+    "youtubeId": "83CgidmTXMc",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/69/01/0c/69010c8e-2ff7-2809-589d-6f304400a359/mzaf_3468624104964279051.plus.aac.p.m4a"
+  },
+  {
+    "id": "124",
+    "title": "End of the Road",
+    "artist": "Boyz II Men",
+    "year": 1992,
+    "youtubeId": "zDKO6XYXioc",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5c/86/e1/5c86e11f-8301-abca-2d04-45465e5366a1/mzaf_16178094805615995720.plus.aac.p.m4a"
+  },
+  {
+    "id": "125",
+    "title": "Under the Bridge",
+    "artist": "Red Hot Chili Peppers",
+    "year": 1992,
+    "youtubeId": "GLvohMXgcBo",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bc/9f/89/bc9f892f-a55b-493f-d11d-097a7fc3c194/mzaf_5067400398413485421.plus.aac.p.m4a"
+  },
+  {
+    "id": "126",
+    "title": "Hey Ya!",
+    "artist": "OutKast",
+    "year": 2003,
+    "youtubeId": "PWgvGjAhvIw",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ce/98/c0/ce98c0e5-afa5-f746-032a-fa56ad057762/mzaf_8802440392972724196.plus.aac.p.m4a"
+  },
+  {
+    "id": "127",
+    "title": "Crazy in Love",
+    "artist": "Beyoncé",
+    "year": 2003,
+    "youtubeId": "ViwtNLUqkMY",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b5/2a/4f/b52a4fcd-0628-cb38-c8ab-a697c11a9175/mzaf_1541321636664021445.plus.aac.p.m4a"
+  },
+  {
+    "id": "128",
+    "title": "In Da Club",
+    "artist": "50 Cent",
+    "year": 2003,
+    "youtubeId": "5qm8PH4xAss",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/15/89/7e/15897ea5-b0a0-4c1f-3f64-559533df42b1/mzaf_10604019280667552271.plus.aac.p.m4a"
+  },
+  {
+    "id": "129",
+    "title": "Lose Yourself",
+    "artist": "Eminem",
+    "year": 2002,
+    "youtubeId": "i0VyvqSB48k",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/62/0a/a5/620aa56f-189e-708a-80f0-cebdada3872e/mzaf_7131619873177773332.plus.aac.p.m4a"
+  },
+  {
+    "id": "130",
+    "title": "Without Me",
+    "artist": "Eminem",
+    "year": 2002,
+    "youtubeId": "YVkUvmDQ3HY",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7d/38/ff/7d38ff16-b52c-063a-a34d-767e836befcc/mzaf_13413071545825673354.plus.aac.p.m4a"
+  },
+  {
+    "id": "131",
+    "title": "American Idiot",
+    "artist": "Green Day",
+    "year": 2004,
+    "youtubeId": "kqkGY9jsBOw",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/46/aa/66/46aa66b9-d664-e6ea-4681-4c6fae5c430d/mzaf_3243628110780033088.plus.aac.p.m4a"
+  },
+  {
+    "id": "132",
+    "title": "Seven Nation Army",
+    "artist": "The White Stripes",
+    "year": 2003,
+    "youtubeId": "0J2QdDbelmY",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/61/54/97/61549744-a83b-1c4d-58cf-e56b36beb4a7/mzaf_1246579179619940831.plus.aac.p.m4a"
+  },
+  {
+    "id": "133",
+    "title": "Apologize",
+    "artist": "Timbaland ft. OneRepublic",
+    "year": 2007,
+    "youtubeId": "ZSM3w1v-A_Y",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d1/6d/ee/d16dee2b-89e1-b5f1-a4cb-94fb419152be/mzaf_6872248421188928980.plus.aac.p.m4a"
+  },
+  {
+    "id": "134",
+    "title": "I Gotta Feeling",
+    "artist": "The Black Eyed Peas",
+    "year": 2009,
+    "youtubeId": "uSD4vsh1zDA",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ce/00/7c/ce007c21-7c09-d8b6-931a-67be8c75cb15/mzaf_8821611196674562208.plus.aac.p.m4a"
+  },
+  {
+    "id": "135",
+    "title": "Single Ladies (Put a Ring on It)",
+    "artist": "Beyoncé",
+    "year": 2008,
+    "youtubeId": "CQpTT64uFcA",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/00/78/8d/00788daa-ae6e-0fef-d26f-e9c9d9d22f26/mzaf_1876018181007650438.plus.aac.p.m4a"
+  },
+  {
+    "id": "136",
+    "title": "Poker Face",
+    "artist": "Lady Gaga",
+    "year": 2008,
+    "youtubeId": "bESGLojNYSo",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7b/d4/b9/7bd4b972-99ea-4ce7-9042-615a894173a4/mzaf_17216069970734143078.plus.aac.p.m4a"
+  },
+  {
+    "id": "137",
+    "title": "Empire State of Mind",
+    "artist": "Jay-Z ft. Alicia Keys",
+    "year": 2009,
+    "youtubeId": "vk6014HuxcE",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c1/e1/cb/c1e1cb71-b781-09a2-4d77-48016cdb200a/mzaf_14532239971242282964.plus.aac.p.m4a"
+  },
+  {
+    "id": "138",
+    "title": "Viva la Vida",
+    "artist": "Coldplay",
+    "year": 2008,
+    "youtubeId": "dvgZkm1xWPE",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/2b/04/65/2b0465c3-2db1-e461-2362-14b528456b8f/mzaf_1805426141027060154.plus.aac.p.m4a"
+  },
+  {
+    "id": "139",
+    "title": "Clocks",
+    "artist": "Coldplay",
+    "year": 2002,
+    "youtubeId": "d020hcWA_Wg",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d2/9b/17/d29b173f-546a-606b-378f-8f3c333e81f1/mzaf_3952108508633208951.plus.aac.p.m4a"
+  },
+  {
+    "id": "140",
+    "title": "Beautiful Day",
+    "artist": "U2",
+    "year": 2000,
+    "youtubeId": "co6WMzDOh1o",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/29/ec/84/29ec846c-769f-91f2-5e28-768fa9de514b/mzaf_17613297004823866094.plus.aac.p.m4a"
+  },
+  {
+    "id": "141",
+    "title": "It Wasn't Me",
+    "artist": "Shaggy",
+    "year": 2000,
+    "youtubeId": "DoJTFh1xC44",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/18/75/3f/18753f2d-57fc-46a4-d46e-28d5c333c2c5/mzaf_7595555177497347321.plus.aac.p.m4a"
+  },
+  {
+    "id": "142",
+    "title": "Oops!... I Did It Again",
+    "artist": "Britney Spears",
+    "year": 2000,
+    "youtubeId": "Ene9uJmOBV0",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d8/fa/77/d8fa770b-a342-c0e9-9af2-8807c8e236b8/mzaf_16428789446546576226.plus.aac.p.m4a"
+  },
+  {
+    "id": "143",
+    "title": "Since U Been Gone",
+    "artist": "Kelly Clarkson",
+    "year": 2004,
+    "youtubeId": "R7UrFYvl5TE",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8d/e7/24/8de72427-cabf-27c4-563f-5be2e83da122/mzaf_8282882240981789361.plus.aac.p.m4a"
+  },
+  {
+    "id": "144",
+    "title": "SexyBack",
+    "artist": "Justin Timberlake",
+    "year": 2006,
+    "youtubeId": "3gOHvDP_vCs",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1a/f4/7b/1af47ba3-a363-5716-4dd9-6aea4fe35e3f/mzaf_13609262275263691829.plus.aac.p.m4a"
+  },
+  {
+    "id": "145",
+    "title": "Complicated",
+    "artist": "Avril Lavigne",
+    "year": 2002,
+    "youtubeId": "ncVkvOuil2Y",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/82/55/d58255cd-4bd1-c339-1584-591e9d1305ee/mzaf_14546367220838781682.plus.aac.p.m4a"
+  },
+  {
+    "id": "146",
+    "title": "Hips Don't Lie",
+    "artist": "Shakira",
+    "year": 2006,
+    "youtubeId": "DUT5rEU6pqM",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ac/c7/61/acc7619f-c1e3-e0a5-df9b-0329a35af062/mzaf_13106936727189536738.plus.aac.p.m4a"
+  },
+  {
+    "id": "147",
+    "title": "Hollaback Girl",
+    "artist": "Gwen Stefani",
+    "year": 2005,
+    "youtubeId": "Kgjkth6BRRY",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e6/3c/42/e63c428f-4286-f714-9a6f-41bace5f8a04/mzaf_13346128773158913273.plus.aac.p.m4a"
+  },
+  {
+    "id": "148",
+    "title": "Yeah!",
+    "artist": "Usher",
+    "year": 2004,
+    "youtubeId": "GxBSyx85Kp8",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/94/52/3c/94523c88-f5f9-16f4-dbd7-f284ca168048/mzaf_7184891920196479048.plus.aac.p.m4a"
+  },
+  {
+    "id": "149",
+    "title": "Hot in Herre",
+    "artist": "Nelly",
+    "year": 2002,
+    "youtubeId": "GeZZr_p6vB8",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1b/ce/48/1bce48bf-49c2-eca0-7ca5-2cd614e12e2d/mzaf_7912378696661820444.plus.aac.p.m4a"
+  },
+  {
+    "id": "150",
+    "title": "Toxic",
+    "artist": "Britney Spears",
+    "year": 2003,
+    "youtubeId": "LOZuxwVk7TU",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/c4/7f/aec47f56-842d-49b4-558b-7a7523fd6728/mzaf_6693111381462300599.plus.aac.p.m4a"
+  },
+  {
+    "id": "151",
+    "title": "Chasing Cars",
+    "artist": "Snow Patrol",
+    "year": 2006,
+    "youtubeId": "GemKqzILV4w",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bf/dc/fe/bfdcfeb4-7fde-c148-bf2d-f82d0f1e8096/mzaf_15850382492018725787.plus.aac.p.m4a"
+  },
+  {
+    "id": "152",
+    "title": "Feel Good Inc.",
+    "artist": "Gorillaz",
+    "year": 2005,
+    "youtubeId": "HyHNuVaZJ-k",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/51/ec/df/51ecdf14-b30c-4e55-8d1b-67073cbc16c4/mzaf_8877212452170183777.plus.aac.p.m4a"
+  },
+  {
+    "id": "153",
+    "title": "Stronger",
+    "artist": "Kanye West",
+    "year": 2007,
+    "youtubeId": "PsO6ZnUZI0g",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/96/f2/25/96f225f2-cd07-3639-4133-0910aa9725c0/mzaf_13857358519708863745.plus.aac.p.m4a"
+  },
+  {
+    "id": "154",
+    "title": "Boulevard of Broken Dreams",
+    "artist": "Green Day",
+    "year": 2004,
+    "youtubeId": "hBvJyi3fbtA",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/af/9f/16/af9f16c4-0733-08d4-ae7a-6d528e905f96/mzaf_7155659563269475176.plus.aac.p.m4a"
+  },
+  {
+    "id": "155",
+    "title": "Fix You",
+    "artist": "Coldplay",
+    "year": 2005,
+    "youtubeId": "k4V3Mo61fJM",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/42/e3/e542e340-a45c-695e-e0b8-6155e222ebc0/mzaf_14955746616030397665.plus.aac.p.m4a"
+  },
+  {
+    "id": "156",
+    "title": "Rolling in the Deep",
+    "artist": "Adele",
+    "year": 2010,
+    "youtubeId": "rYEDA3JcQqw",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9f/07/1d/9f071dc7-791c-c869-dfa2-06b25936a287/mzaf_11077490630806345321.plus.aac.p.m4a"
+  },
+  {
+    "id": "157",
+    "title": "Someone Like You",
+    "artist": "Adele",
+    "year": 2011,
+    "youtubeId": "hLQl3WQQoQ0",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ef/18/7b/ef187b7d-f487-e935-4ca1-af5748313710/mzaf_8455263230305249048.plus.aac.p.m4a"
+  },
+  {
+    "id": "158",
+    "title": "Hello",
+    "artist": "Adele",
+    "year": 2015,
+    "youtubeId": "YQHsXMglC9A",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/93/22/22/93222271-8d55-d923-e0ff-b2964a5abefe/mzaf_3513742103157153222.plus.aac.p.m4a"
+  },
+  {
+    "id": "159",
+    "title": "Uptown Funk",
+    "artist": "Mark Ronson ft. Bruno Mars",
+    "year": 2014,
+    "youtubeId": "7Ya2U8XN_Zw",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/62/e1/98/62e19826-cd13-6eff-390e-dbca502bb7b5/mzaf_8006535252627949661.plus.aac.p.m4a"
+  },
+  {
+    "id": "160",
+    "title": "Happy",
+    "artist": "Pharrell Williams",
+    "year": 2013,
+    "youtubeId": "ZbZSe6N_BXs",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/ba/89/4cba89f1-1a8a-3f33-b3ac-d88bcad8b996/mzaf_17135561476274403451.plus.aac.p.m4a"
+  },
+  {
+    "id": "161",
+    "title": "Get Lucky",
+    "artist": "Daft Punk",
+    "year": 2013,
+    "youtubeId": "5NV6Rdv1a3I",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d4/d3/1e/d4d31eb4-7405-b806-8346-3c52ad5b4cf4/mzaf_8095545455942962509.plus.aac.p.m4a"
+  },
+  {
+    "id": "162",
+    "title": "Thinking Out Loud",
+    "artist": "Ed Sheeran",
+    "year": 2014,
+    "youtubeId": "WpyfrixXBqU",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/78/a5/f2/78a5f25e-ad1b-718d-82ad-b82e676c1855/mzaf_6133970271589343093.plus.aac.p.m4a"
+  },
+  {
+    "id": "163",
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "year": 2017,
+    "youtubeId": "_dK2tDK9grQ",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/c7/4f/44c74f0d-72dc-6143-d4d0-ba14d661ca0d/mzaf_9566898362556366703.plus.aac.p.m4a"
+  },
+  {
+    "id": "164",
+    "title": "Shake It Off",
+    "artist": "Taylor Swift",
+    "year": 2014,
+    "youtubeId": "H59xVMF4zxE",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/d5/6d/11d56d4a-ce23-e793-8681-70dc4d35d931/mzaf_5886436202259848624.plus.aac.p.m4a"
+  },
+  {
+    "id": "165",
+    "title": "Blank Space",
+    "artist": "Taylor Swift",
+    "year": 2014,
+    "youtubeId": "2mIBS3fHp6A",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/55/b1/7955b10c-6cb6-462a-861c-8e5cbcacfb76/mzaf_3395570742482345989.plus.aac.p.m4a"
+  },
+  {
+    "id": "166",
+    "title": "Bad Guy",
+    "artist": "Billie Eilish",
+    "year": 2019,
+    "youtubeId": "2pnXjQCegVc",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c3/87/1f/c3871f7e-3260-d615-1c66-5fdca2c3a48f/mzaf_10721331211699880949.plus.aac.p.m4a"
+  },
+  {
+    "id": "167",
+    "title": "Old Town Road",
+    "artist": "Lil Nas X",
+    "year": 2019,
+    "youtubeId": "sOkHxILr5DA",
+    "youtubeStartSec": 15,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/df/c5/d9/dfc5d936-099d-8c34-3a52-209164115571/mzaf_5301823922994311166.plus.aac.p.m4a"
+  },
+  {
+    "id": "168",
+    "title": "Royals",
+    "artist": "Lorde",
+    "year": 2013,
+    "youtubeId": "ncgsL1GCFms",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/50/2e/4c502ee4-d63e-3f7c-11cc-61b2e0c92656/mzaf_4849324024240261165.plus.aac.p.m4a"
+  },
+  {
+    "id": "169",
+    "title": "Somebody That I Used to Know",
+    "artist": "Gotye",
+    "year": 2011,
+    "youtubeId": "8UVNT4wvIGY",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f9/9c/55/f99c553e-7be1-91dc-b55e-3da1aad29bba/mzaf_5038171343466446420.plus.aac.p.m4a"
+  },
+  {
+    "id": "170",
+    "title": "Call Me Maybe",
+    "artist": "Carly Rae Jepsen",
+    "year": 2011,
+    "youtubeId": "KsXvSpMdlFo",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/0b/c4/5e0bc4b4-51fb-c992-4953-8cc13ecfb773/mzaf_4904797060238555261.plus.aac.p.m4a"
+  },
+  {
+    "id": "171",
+    "title": "Radioactive",
+    "artist": "Imagine Dragons",
+    "year": 2012,
+    "youtubeId": "sVhF7ebx0Mg",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/77/70/88/777088e9-60a1-c459-bfa5-6e66f2fd2695/mzaf_7685408661765681881.plus.aac.p.m4a"
+  },
+  {
+    "id": "172",
+    "title": "Thrift Shop",
+    "artist": "Macklemore & Ryan Lewis",
+    "year": 2012,
+    "youtubeId": "QK8mJJJvaes",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a9/9a/4f/a99a4f5c-f2de-c343-24ac-4c05be74bbee/mzaf_9222035325351290831.plus.aac.p.m4a"
+  },
+  {
+    "id": "173",
+    "title": "Bodak Yellow",
+    "artist": "Cardi B",
+    "year": 2017,
+    "youtubeId": "PEGccV-NOm8",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/96/e1/08/96e10837-a6ea-8a74-4d24-93fad18556f1/mzaf_8001093936801432575.plus.aac.p.m4a"
+  },
+  {
+    "id": "174",
+    "title": "God's Plan",
+    "artist": "Drake",
+    "year": 2018,
+    "youtubeId": "1gU-ELcGGqg",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/da/7d/f1/da7df14b-8ee6-5020-d850-ccc0381eb141/mzaf_5511967710095380808.plus.aac.p.m4a"
+  },
+  {
+    "id": "175",
+    "title": "Closer",
+    "artist": "The Chainsmokers",
+    "year": 2016,
+    "youtubeId": "0zGcUoRlhmw",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bd/f9/b9/bdf9b9b2-eaa4-4461-6079-aaacc6df7316/mzaf_17327312786932455493.plus.aac.p.m4a"
+  },
+  {
+    "id": "176",
+    "title": "Shallow",
+    "artist": "Lady Gaga & Bradley Cooper",
+    "year": 2018,
+    "youtubeId": "bo_efYhYU2A",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9c/7a/54/9c7a54a6-f2a7-8d8e-1d13-4fe110fddf38/mzaf_3987088489827294384.plus.aac.p.m4a"
+  },
+  {
+    "id": "177",
+    "title": "Counting Stars",
+    "artist": "OneRepublic",
+    "year": 2013,
+    "youtubeId": "4Afc3DyirHM",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b0/db/7f/b0db7fbe-f8ff-1f67-fe72-ca8185ffbca2/mzaf_15298650366584767800.plus.aac.p.m4a"
+  },
+  {
+    "id": "178",
+    "title": "Moves Like Jagger",
+    "artist": "Maroon 5",
+    "year": 2011,
+    "youtubeId": "iEPTlhBmwRg",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1a/e8/be/1ae8bea8-8962-8168-80d5-65bf3b1478ba/mzaf_471500839444486606.plus.aac.p.m4a"
+  },
+  {
+    "id": "179",
+    "title": "Pumped Up Kicks",
+    "artist": "Foster the People",
+    "year": 2011,
+    "youtubeId": "k_aQYP8rsgE",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/dd/a9/80/dda980a0-3b62-f7b7-9588-11b929a30b3c/mzaf_4007504837203131685.plus.aac.p.m4a"
+  },
+  {
+    "id": "180",
+    "title": "Blurred Lines",
+    "artist": "Robin Thicke ft. Pharrell & T.I.",
+    "year": 2013,
+    "youtubeId": "yyDUC1LUXSU",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a5/fa/aa/a5faaa90-b307-9c47-b8ad-1b060842d31c/mzaf_3927777670546927419.plus.aac.p.m4a"
+  },
+  {
+    "id": "181",
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "year": 2020,
+    "youtubeId": "fHI8X4OXluQ",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/17/b4/8f/17b48f9a-0b93-6bb8-fe1d-3a16623c2cfb/mzaf_9560252727299052414.plus.aac.p.m4a"
+  },
+  {
+    "id": "182",
+    "title": "Watermelon Sugar",
+    "artist": "Harry Styles",
+    "year": 2020,
+    "youtubeId": "7-x3uD5z1bQ",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/16/86/f5/1686f50d-8b77-7e32-85f7-5f0e804d68fe/mzaf_14195633304344507287.plus.aac.p.m4a"
+  },
+  {
+    "id": "183",
+    "title": "Savage Remix",
+    "artist": "Megan Thee Stallion ft. Beyoncé",
+    "year": 2020,
+    "youtubeId": "lEIqjoO0-Bs",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2f/05/1f/2f051fe0-6655-25be-02ff-e4a8a680ecb6/mzaf_17648280515430834672.plus.aac.p.m4a"
+  },
+  {
+    "id": "184",
+    "title": "Drivers License",
+    "artist": "Olivia Rodrigo",
+    "year": 2021,
+    "youtubeId": "ZmDBbnmKpqQ",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/36/62/61/366261be-0996-d73d-de6f-03417867c800/mzaf_8201528327761821135.plus.aac.p.m4a"
+  },
+  {
+    "id": "185",
+    "title": "Good 4 U",
+    "artist": "Olivia Rodrigo",
+    "year": 2021,
+    "youtubeId": "gNi_6U5Pm_o",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9f/bd/f1/9fbdf1ce-12d9-7440-1c1c-3fed40567619/mzaf_7303839465958373073.plus.aac.p.m4a"
+  },
+  {
+    "id": "186",
+    "title": "Levitating",
+    "artist": "Dua Lipa",
+    "year": 2020,
+    "youtubeId": "TUVcZfQe-Kw",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/dc/4d/59dc4dda-93ff-8f1c-c536-f005f6ea6af5/mzaf_3066686759813252385.plus.aac.p.m4a"
+  },
+  {
+    "id": "187",
+    "title": "Montero (Call Me by Your Name)",
+    "artist": "Lil Nas X",
+    "year": 2021,
+    "youtubeId": "6swmTBVI83k",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/6e/cd/99/6ecd9966-bbe2-36b5-35f1-cd8ed6406906/mzaf_3486740843482888093.plus.aac.p.m4a"
+  },
+  {
+    "id": "188",
+    "title": "Stay",
+    "artist": "The Kid LAROI & Justin Bieber",
+    "year": 2021,
+    "youtubeId": "kTJczUoc26U",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/25/9a/1c/259a1c5d-c59b-ce1f-8279-c0e644dc2b9e/mzaf_3677842867275398060.plus.aac.p.m4a"
+  },
+  {
+    "id": "189",
+    "title": "As It Was",
+    "artist": "Harry Styles",
+    "year": 2022,
+    "youtubeId": "H5v3kku4y6Q",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/10/16/67101606-3869-ca44-6c03-e13d6322cb51/mzaf_1135399237022217274.plus.aac.p.m4a"
+  },
+  {
+    "id": "190",
+    "title": "Bad Habit",
+    "artist": "Steve Lacy",
+    "year": 2022,
+    "youtubeId": "VF-FGf_ZZiI",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/f3/90/b5f390d1-ab47-f76e-4311-89ad4a34333f/mzaf_802265940992462461.plus.aac.p.m4a"
+  },
+  {
+    "id": "191",
+    "title": "About Damn Time",
+    "artist": "Lizzo",
+    "year": 2022,
+    "youtubeId": "IXXxciRUMzE",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1f/1d/91/1f1d9169-e7a4-85f4-c614-845640028993/mzaf_14417727468767979062.plus.aac.p.m4a"
+  },
+  {
+    "id": "192",
+    "title": "Anti-Hero",
+    "artist": "Taylor Swift",
+    "year": 2022,
+    "youtubeId": "XqN2qFvY64U",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1d/56/2a/1d562a07-dc5f-a9c0-1f36-2051a8c14eb7/mzaf_7214829135431340590.plus.aac.p.m4a"
+  },
+  {
+    "id": "193",
+    "title": "Flowers",
+    "artist": "Miley Cyrus",
+    "year": 2023,
+    "youtubeId": "vPUOrcxk3vo",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/9e/f7/689ef7fe-14fe-a846-c87f-7d3b2d6344b1/mzaf_4167137058064023087.plus.aac.p.m4a"
+  },
+  {
+    "id": "194",
+    "title": "Kill Bill",
+    "artist": "SZA",
+    "year": 2022,
+    "youtubeId": "SQnc1QibapQ",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/45/2b/ea/452bead6-c7f5-82d4-f5f7-ec876014b4cc/mzaf_2905911853279084717.plus.aac.p.m4a"
+  },
+  {
+    "id": "195",
+    "title": "Vampire",
+    "artist": "Olivia Rodrigo",
+    "year": 2023,
+    "youtubeId": "Fqey8LxQxFU",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/83/09/5e/83095ea1-83bf-ecdc-3b75-358c350fca51/mzaf_15560849688086702972.plus.aac.p.m4a"
+  },
+  {
+    "id": "196",
+    "title": "Last Night",
+    "artist": "Morgan Wallen",
+    "year": 2023,
+    "youtubeId": "TBkpoTbJAsI",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/87/0e/ef/870eef82-decb-8804-d0af-2f174f111e9b/mzaf_5505022907758473489.plus.aac.p.m4a"
+  },
+  {
+    "id": "197",
+    "title": "Paint the Town Red",
+    "artist": "Doja Cat",
+    "year": 2023,
+    "youtubeId": "m4_9TFeMfJE",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/df/24/bf/df24bf87-2975-c050-33c5-b3d90013bca6/mzaf_7761039034193753445.plus.aac.p.m4a"
+  },
+  {
+    "id": "198",
+    "title": "Espresso",
+    "artist": "Sabrina Carpenter",
+    "year": 2024,
+    "youtubeId": "51zjlMhdSTE",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e9/4d/02/e94d0230-11ee-ef94-d2cf-a5d547bd73f4/mzaf_554140808559155562.plus.aac.p.m4a"
+  },
+  {
+    "id": "199",
+    "title": "Houdini",
+    "artist": "Dua Lipa",
+    "year": 2024,
+    "youtubeId": "YIvwCIwDQT8",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2c/da/b5/2cdab5c6-04a8-5231-c697-00101e876479/mzaf_5586859405346659517.plus.aac.p.m4a"
+  },
+  {
+    "id": "200",
+    "title": "Texas Hold 'Em",
+    "artist": "Beyoncé",
+    "year": 2024,
+    "youtubeId": "jCOX8dT9q8M",
+    "youtubeStartSec": 30,
+    "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/b6/d0/7fb6d036-cb17-cf78-49cb-55dbef9704a2/mzaf_6828473469451839772.plus.aac.p.m4a"
+  }
+]
