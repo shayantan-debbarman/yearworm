@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "deploy": "next build && touch out/.nojekyll && gh-pages -d out -b gh-pages -t -f -m 'Deploy to GitHub Pages'",
     "start": "next start",
     "lint": "next lint",
     "fetch-metadata": "tsx scripts/fetch-metadata.ts",
@@ -24,6 +25,7 @@
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
     "autoprefixer": "^10.4.20",
+    "gh-pages": "^6.3.0",
     "pdf-lib": "^1.17.1",
     "postcss": "^8.4.47",
     "qrcode": "^1.5.4",
